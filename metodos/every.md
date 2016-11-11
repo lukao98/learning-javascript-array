@@ -11,7 +11,7 @@ function Teste(numbers)
 	return numbers >= 10;
 }
 
-numeros.every(numbers);
+numeros.every(Teste);
 >false
 ```
 Agora vamos testar o *true*:  
@@ -23,7 +23,7 @@ function Teste(numbers)
 	return numbers < 10;
 }
 
-numeros.every(numbers);
+numeros.every(Teste);
 >true
 ```
 
