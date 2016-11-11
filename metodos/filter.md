@@ -1,5 +1,5 @@
 #filter()
-Este metrodo filtra um array testando todos os elementos podendo originar um novo ou alterar o mesmo contendo apenas os elementos que passaram no teste.
+Este metodo filtra um array testando todos os elementos podendo originar um novo ou alterar o mesmo contendo apenas os elementos que passaram no teste.
 
 ###Exemplo
 Vamos dar um exemplo alterando um só array: 
